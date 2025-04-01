@@ -117,7 +117,7 @@ To revolutionize password security by developing an intelligent system that dete
 ## 🏆 **Team & Contact Information**
 👨‍💻 **Pranav Zagade**  
 👩‍💻 **Ruta Sapate**  
-👩‍💻 **Samrudhhi Rauth**  
+👩‍💻 **Samrudhhi Raut**  
 👨‍💻 **Prathamesh Perdeshi**  
 📧 **Contact:** pranavzagade15@gmail.com
 
